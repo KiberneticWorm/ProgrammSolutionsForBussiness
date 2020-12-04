@@ -1,0 +1,39 @@
+.main_page {
+     -fx-background-color: #e3c502;
+}
+
+#btnBack {
+    -fx-background-color: #1d62d1;
+}
+
+.button {
+    -fx-background-color: #e3c502;
+    -fx-padding: 13px;
+}
+
+.button:hover {
+    -fx-background-color: #888;
+}
+
+.button:pressed {
+    -fx-background-color: #999;
+
+}
+
+.custom_cell {
+    -fx-padding: 20px;
+}
+
+.custom_cell_login {
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-box-sizing: border-box;
+}
+
+.custom_cell_fio {
+    -fx-font-size: 18px;
+}
+
+.custom_cell_role {
+
+}

@@ -1,0 +1,43 @@
+.form_app {
+    -fx-background-color: #1d62d1;
+}
+.label_container_app {
+    -fx-background-color: #e3c502;
+    -fx-padding: 23px;
+}
+
+.form_app_label {
+    -fx-text-fill: #fff;
+    -fx-font-size: 18px;
+}
+
+
+.root {
+    -fx-font-family: Comic Sans MS;
+}
+
+.label_app {
+    -fx-font-size: 30px;
+}
+
+.button {
+    -fx-background-color: #e3c502;
+     -fx-padding: 13px;
+}
+
+.button:hover {
+    -fx-background-color: #888;
+}
+
+.form_app_field {
+    -fx-border-width: 1px;
+    -fx-border-color: #888;
+    -fx-padding: 13px;
+    -fx-background-radius: 10px;
+    -fx-border-radius: 10px;
+}
+
+.button:pressed {
+    -fx-background-color: #999;
+
+}
