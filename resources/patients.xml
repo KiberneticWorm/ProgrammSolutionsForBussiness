@@ -1,0 +1,34 @@
+<patients>
+	<patient>
+		<id>1</id>
+		<fio>Patient1 Patientov1 Patientovich1</fio>
+		<passport_seria>1415</passport_seria>
+		<passport_number>145156</passport_number>
+		<age>19</age>
+		<image_path>C:\Users\User\IdeaProjects\RemoteFolder\person_man.jpg</image_path>
+	</patient>
+	<patient>
+		<id>2</id>
+		<fio>Patient1 Patientov1 Patientovich1</fio>
+		<passport_seria>1415</passport_seria>
+		<passport_number>145156</passport_number>
+		<age>19</age>
+		<image_path>C:\Users\User\IdeaProjects\RemoteFolder\person_man.jpg</image_path>
+	</patient>
+	<patient>
+		<id>3</id>
+		<fio>Patient1 Patientov1 Patientovich1</fio>
+		<passport_seria>1415</passport_seria>
+		<passport_number>145156</passport_number>
+		<age>19</age>
+		<image_path>C:\Users\User\IdeaProjects\RemoteFolder\person_man.jpg</image_path>
+	</patient>
+	<patient>
+		<id>4</id>
+		<fio>Patient1 Patientov1 Patientovich1</fio>
+		<passport_seria>1415</passport_seria>
+		<passport_number>145156</passport_number>
+		<age>19</age>
+		<image_path>C:\Users\User\IdeaProjects\RemoteFolder\person_man.jpg</image_path>
+	</patient>
+</patients>

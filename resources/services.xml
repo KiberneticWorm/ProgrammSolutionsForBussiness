@@ -1,0 +1,32 @@
+<services>
+	<service>
+		<id>1</id>
+		<doctor_id>1</doctor_id>
+		<code>234</code>
+		<price>10000</price>
+	</service>
+	<service>
+		<id>2</id>
+		<doctor_id>1</doctor_id>
+		<code>234</code>
+		<price>100000</price>
+	</service>
+	<service>
+		<id>3</id>
+		<doctor_id>1</doctor_id>
+		<code>234</code>
+		<price>1000000</price>
+	</service>
+	<service>
+		<id>4</id>
+		<doctor_id>1</doctor_id>
+		<code>234</code>
+		<price>10000000</price>
+	</service>
+	<service>
+		<id>5</id>
+		<doctor_id>1</doctor_id>
+		<code>234</code>
+		<price>10</price>
+	</service>
+</services>
